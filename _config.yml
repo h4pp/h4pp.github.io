@@ -1,0 +1,15 @@
+title: h4pp
+description: Apps by h4pp
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+# Keep the support/privacy pages out of minima's top nav — they're
+# deep-linked from the App Store, not browsed.
+header_pages: []
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
