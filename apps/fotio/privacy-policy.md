@@ -52,5 +52,4 @@ new effective date.
 
 ## Contact
 
-Questions about privacy? Email
-[strekalov.ilya@gmail.com](mailto:strekalov.ilya@gmail.com).
+Questions about privacy? See the [Contact page](/contacts/).

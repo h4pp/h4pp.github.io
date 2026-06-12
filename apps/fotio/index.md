@@ -17,3 +17,4 @@ shots and custom cameras stay on your phone.
 
 - [Support](/apps/fotio/support/)
 - [Privacy Policy](/apps/fotio/privacy-policy/)
+- [Contact](/contacts/)

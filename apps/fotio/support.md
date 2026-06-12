@@ -46,5 +46,5 @@ bodies. Fotio ships with a generic Standard 35mm to start from.
 
 ## Contact
 
-Questions, bug reports, or feature requests? Email
-[strekalov.ilya@gmail.com](mailto:strekalov.ilya@gmail.com).
+Questions, bug reports, or feature requests? See the
+[Contact page](/contacts/).
